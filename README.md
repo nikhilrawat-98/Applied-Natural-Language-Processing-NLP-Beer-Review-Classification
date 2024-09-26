@@ -1,0 +1,2 @@
+# Applied-Natural-Language-Processing-NLP-Beer-Review-Classification
+This project classifies beer reviews from the BeerAdvocate website into "okay," "good," and "excellent" ratings. Using machine learning and NLP techniques, review ratings are predicted based on text. TF-IDF vectorization was applied, and the Support Vector Machine model, which performed best during evaluation, was used for final predictions.
